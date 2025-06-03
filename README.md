@@ -44,5 +44,9 @@ Each script generates output files in CSV format, which can be used for:
 - Post-processing and analysis
 - Plotting reserve requirements over time
 - Evaluating scenario-specific system cost and market outcomes
-- Evaluating hydropower usage 
+- Evaluating hydropower usage
+
+## Data Availability
+
+Some of the input data used in this project cannot be made publicly available due to confidentiality agreements. As a result, certain input files, such as predicted area prices for neighbouring regions (e.g., the Border_prices file), are excluded from this repository.
 
